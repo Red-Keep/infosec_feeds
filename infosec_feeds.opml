@@ -14,13 +14,12 @@
             <outline type="rss" text="root labs rdist" title="root labs rdist" xmlUrl="http://rdist.root.org/feed/" htmlUrl="https://rdist.root.org"/>
             <outline type="rss" text="xorl %eax, %eax" title="xorl %eax, %eax" xmlUrl="http://xorl.wordpress.com/feed/" htmlUrl="https://xorl.wordpress.com"/>
         </outline>
-        <outline text="websec" title="websec">
+        <outline text="Websec" title="Websec">
             <outline type="rss" text="CGISecurity.com: Your Web Site and Application Security Resource" title="CGISecurity.com: Your Web Site and Application Security Resource" xmlUrl="http://www.cgisecurity.com/index.rss" htmlUrl="https://www.cgisecurity.com/"/>
         </outline>
         <outline text="Counter Terrorism" title="Counter Terrorism">
             <outline type="rss" text="intelNews.org" title="intelNews.org" xmlUrl="http://intelnews.org/feed/" htmlUrl="http://intelnews.org"/>
         </outline>
-        <outline text="Scada" title="Scada"/>
         <outline text="Podcasts" title="Podcasts">
             <outline type="rss" text="Paul's Security Weekly" title="Paul's Security Weekly" xmlUrl="http://pauldotcom.com/podcast/psw.xml" htmlUrl="http://securityweekly.com/"/>
             <outline type="rss" text="Hak5 - Technolust since 2005" title="Hak5 - Technolust since 2005" xmlUrl="http://hak5.org/feed/atom" htmlUrl="https://www.hak5.org"/>
